@@ -10,7 +10,7 @@ var removeElement = function(nums, val) {
        }
       
     }
-return k
+return nums
 
 
     

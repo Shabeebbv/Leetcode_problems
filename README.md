@@ -26,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0058-length-of-last-word) |
+| [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->

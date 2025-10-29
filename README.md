@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0520-detect-capital](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 ## Hash Table

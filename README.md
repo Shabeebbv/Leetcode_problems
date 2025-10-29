@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0326-power-of-three) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -40,5 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0027-remove-element) |
+| [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
 | [3194-find-words-containing-character](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->

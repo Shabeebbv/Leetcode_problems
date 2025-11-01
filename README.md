@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
 | [3194-find-words-containing-character](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3194-find-words-containing-character) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

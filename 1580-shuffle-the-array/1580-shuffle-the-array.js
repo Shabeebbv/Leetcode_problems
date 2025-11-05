@@ -1,15 +1,18 @@
-/**
- * @param {number[]} nums
- * @param {number} n
- * @return {number[]}
- */
 var shuffle = function(nums, n) {
-   
+    let fst=[]
+    let scd=[]
     let ans=[]
     for (i=0;i<nums.length;i++){
         if(i<n){
-        ans.push(nums[i])
-        ans.push(nums[i+n])}
+            fst.push(nums[i])
+        }
+        else{
+            scd.push(nums[i])
+        }
+    }
+    for(i=0;i<fst.length;i++){
+            ans.push(fst[i])
+            ans.push(scd[i])
     }
     return ans
     

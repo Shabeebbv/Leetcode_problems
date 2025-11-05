@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1603-running-sum-of-1d-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1603-running-sum-of-1d-array) |
 | [3194-find-words-containing-character](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

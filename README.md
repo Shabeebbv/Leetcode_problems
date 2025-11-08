@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0326-power-of-three) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

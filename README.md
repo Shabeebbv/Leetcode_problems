@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0231-power-of-two) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0520-detect-capital) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion

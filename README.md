@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2491-smallest-even-multiple) |

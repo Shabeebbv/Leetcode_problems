@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-find-words-containing-character](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3226-minimum-number-game) |
 | [4008-restore-finishing-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/4008-restore-finishing-order) |

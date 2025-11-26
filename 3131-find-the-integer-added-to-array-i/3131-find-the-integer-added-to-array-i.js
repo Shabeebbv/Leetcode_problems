@@ -4,7 +4,11 @@
  * @return {number}
  */
 var addedInteger = function(nums1, nums2) {
-    x=Math.min(...nums2)
-    y=Math.min(...nums1)
-    return x-y
+    count=0
+   x=nums1.sort((a,b)=>a-b)
+   y=nums2.sort((a,b)=>a-b)
+   for(i=0;i<1;i++){
+    count+=y[i]-x[i]
+   }
+    return count
 };

@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3226-minimum-number-game) |
 | [4008-restore-finishing-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/4008-restore-finishing-order) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [4008-restore-finishing-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/4008-restore-finishing-order) |
 ## Recursion
 |  |

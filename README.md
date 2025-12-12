@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
+| [1323-maximum-69-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1323-maximum-69-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1323-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |

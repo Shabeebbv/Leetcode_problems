@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3194-find-words-containing-character) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4008-restore-finishing-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/4008-restore-finishing-order) |
 ## Recursion
 |  |

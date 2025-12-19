@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1603-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |

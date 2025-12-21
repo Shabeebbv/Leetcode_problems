@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [2000-reverse-prefix-of-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3194-find-words-containing-character) |

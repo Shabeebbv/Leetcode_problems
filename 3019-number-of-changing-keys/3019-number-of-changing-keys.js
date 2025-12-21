@@ -5,7 +5,6 @@ var countKeyChanges = function(s) {
         if(up[i]!=up[i+1]){
             count++
         }
-
     }
     return count-1
 };

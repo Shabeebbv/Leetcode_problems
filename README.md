@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3024-type-of-triangle) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2752-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3024-type-of-triangle) |
 | [3226-minimum-number-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3226-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Simulation

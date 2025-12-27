@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1651-shuffle-string](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |

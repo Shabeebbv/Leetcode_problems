@@ -6,6 +6,7 @@ var reverseWords = function(s) {
     let x=[]
     let arr=s.split(' ')
     for(i=0;i<arr.length;i++){
+        // console.log(arr[i].split('').reverse())
         let y=arr[i].split('').reverse().join('')
         x.push(y)    
     }

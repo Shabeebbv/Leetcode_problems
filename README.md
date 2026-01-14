@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |

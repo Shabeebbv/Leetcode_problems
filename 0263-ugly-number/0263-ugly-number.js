@@ -2,17 +2,16 @@ var isUgly = function(n) {
     if (n<=0){
         return false
     }
-    let x=n
-    while(x%2==0){
-         x=x/2
+    while(n%2==0){
+         n=n/2
     }
-    while (x%3==0){
-       x=x/3
+    while (n%3==0){
+       n=n/3
     }
-    while (x%5==0){
-       x=x/5
+    while (n%5==0){
+       n=n/5
     }
-    if(x==1){
+    if(n==1){
         return true
     }
     else{

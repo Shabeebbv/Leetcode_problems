@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0627-swap-sex-of-employees) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1693-daily-leads-and-partners](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1757-recyclable-and-low-fat-products) |

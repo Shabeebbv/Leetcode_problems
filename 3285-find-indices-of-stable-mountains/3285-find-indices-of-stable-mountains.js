@@ -3,7 +3,7 @@
  * @param {number} threshold
  * @return {number[]}
  */
-var stableMountains = function(height, threshold) {
+var stableMountains = function(height, threshold){
     let arr=[]
     for(i=1;i<height.length;i++){
         if (height[i-1]>threshold){

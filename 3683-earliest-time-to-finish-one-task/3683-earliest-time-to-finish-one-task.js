@@ -14,4 +14,3 @@ var earliestTime = function(tasks) {
     }
     return ans
 };
-console.log(earliestTime([[1,6],[2,3]]));

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [4008-restore-finishing-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/4008-restore-finishing-order) |

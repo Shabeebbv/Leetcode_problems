@@ -15,4 +15,3 @@ var minOperations = function(boxes) {
     }
     return arr
 };
-console.log(minOperations('001011'));

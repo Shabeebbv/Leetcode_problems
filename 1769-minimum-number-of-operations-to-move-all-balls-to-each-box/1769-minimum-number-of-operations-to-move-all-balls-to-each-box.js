@@ -7,7 +7,7 @@ var minOperations = function(boxes) {
     for(i=0;i<boxes.length;i++){
         let count=0
         for(j=0;j<boxes.length;j++){
-            if(boxes[j]==='1' && j!=i){
+            if(boxes[j]==='1'){
                 count+=Math.abs(i-j)
             }
         }

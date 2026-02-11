@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1651-shuffle-string](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |

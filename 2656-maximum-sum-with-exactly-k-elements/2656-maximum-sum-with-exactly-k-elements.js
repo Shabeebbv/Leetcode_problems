@@ -13,4 +13,3 @@ var maximizeSum = function(nums, k) {
     }
     return sum
 };
-console.log(maximizeSum([5,5,5],2));

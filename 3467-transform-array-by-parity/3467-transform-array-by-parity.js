@@ -14,4 +14,3 @@ for(i=0;i<nums.length;i++){
 }
 return arr.sort()
 };
-console.log(transformArray([1,5,1,4,2]));

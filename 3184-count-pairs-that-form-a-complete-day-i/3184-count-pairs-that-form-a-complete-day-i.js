@@ -13,4 +13,3 @@ var countCompleteDayPairs = function(hours) {
     }
     return count
 };
-console.log(countCompleteDayPairs([12,12,30,24,24]));

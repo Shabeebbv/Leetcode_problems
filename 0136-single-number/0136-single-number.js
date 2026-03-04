@@ -13,12 +13,10 @@ var singleNumber = function(nums) {
             obj[value]=1
         }
    }
-   
    for(let key in obj){
     if(obj[key]==1){
         return Number(key)
     }
    }
-   
 };
 console.log(singleNumber([2,2,1]));

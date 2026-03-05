@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |

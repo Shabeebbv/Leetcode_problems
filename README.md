@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |

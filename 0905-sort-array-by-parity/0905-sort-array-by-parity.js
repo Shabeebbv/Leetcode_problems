@@ -15,4 +15,3 @@ var sortArrayByParity = function(nums) {
     }
     return[...even,...odd]
 };
-console.log(sortArrayByParity([3,1,2,4]));

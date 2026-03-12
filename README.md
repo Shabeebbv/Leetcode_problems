@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1313-decompress-run-length-encoded-list) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |

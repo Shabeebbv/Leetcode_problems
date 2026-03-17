@@ -22,4 +22,3 @@ var sumDivisibleByK = function(nums, k) {
     }
     return sum
 };
-console.log(sumDivisibleByK([1,2,2,3,3,3,3,4],2));

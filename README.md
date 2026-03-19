@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2032-two-out-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2032-two-out-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2032-two-out-of-three) |
 ## Greedy
 |  |
 | ------- |

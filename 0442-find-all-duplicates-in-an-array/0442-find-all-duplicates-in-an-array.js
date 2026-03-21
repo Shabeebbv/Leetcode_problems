@@ -21,4 +21,3 @@ var findDuplicates = function(nums) {
     }
     return arr
 }; 
-console.log(findDuplicates([1,1,3,2]));

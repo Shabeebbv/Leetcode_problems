@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2752-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |

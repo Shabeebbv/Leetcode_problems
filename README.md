@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2278-percentage-of-letter-in-string](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3019-number-of-changing-keys](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3019-number-of-changing-keys) |
 | [3194-find-words-containing-character](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3194-find-words-containing-character) |

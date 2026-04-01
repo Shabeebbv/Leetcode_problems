@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3226-minimum-number-game) |

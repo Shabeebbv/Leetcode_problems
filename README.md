@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1313-decompress-run-length-encoded-list) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack

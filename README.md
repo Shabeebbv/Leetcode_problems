@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1539-kth-missing-positive-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1550-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1539-kth-missing-positive-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |

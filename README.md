@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2491-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2544-alternating-digit-sum) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2491-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2083-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2843-count-symmetric-integers) |
 ## Stack

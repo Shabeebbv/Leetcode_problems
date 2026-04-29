@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0645-set-mismatch) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Brainteaser
 |  |

@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2032-two-out-of-three) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |

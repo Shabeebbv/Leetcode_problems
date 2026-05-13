@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1701-average-waiting-time](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1816-truncate-sentence) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1701-average-waiting-time](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1701-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2161-partition-array-according-to-given-pivot) |

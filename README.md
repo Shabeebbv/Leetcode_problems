@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-lemonade-change) |
+| [0890-find-and-replace-pattern](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |

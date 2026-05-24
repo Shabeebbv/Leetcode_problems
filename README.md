@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0782-jewels-and-stones) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0645-set-mismatch) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0561-array-partition) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1051-height-checker](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1051-height-checker) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -506,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2221-find-triangular-sum-of-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

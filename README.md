@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3151-special-array-i) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |

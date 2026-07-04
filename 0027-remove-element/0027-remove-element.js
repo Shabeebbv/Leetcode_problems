@@ -1,6 +1,10 @@
+/**
+ * @param {number[]} nums
+ * @param {number} val
+ * @return {number}
+ */
 var removeElement = function(nums, val) {
-
-    k=0
+        k=0
 
     for(i=0;i<nums.length;i++){
        if(nums[i]!==val){
@@ -11,9 +15,5 @@ var removeElement = function(nums, val) {
       
     }
 return k
-
-
     
 };
-const x=removeElement([0,1,2,2,3,0,4,2],2)
-console.log(x);

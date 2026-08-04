@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2956-find-common-elements-between-two-arrays) |

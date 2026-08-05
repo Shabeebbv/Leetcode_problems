@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2733-neither-minimum-nor-maximum) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shabeebbv/Leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Shabeebbv/Leetcode_problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shabeebbv/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |

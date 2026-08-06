@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0242-valid-anagram) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0242-valid-anagram) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0169-majority-element) |

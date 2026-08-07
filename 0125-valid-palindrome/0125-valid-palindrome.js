@@ -10,4 +10,3 @@ var isPalindrome = function(s) {
     // return clean
 };
 console.log(isPalindrome("A man, a plan, a canal: Panama"));
-

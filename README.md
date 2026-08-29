@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0909-stone-game](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0909-stone-game) |
 ## Game Theory
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shabeebbv/Leetcode_problems/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
